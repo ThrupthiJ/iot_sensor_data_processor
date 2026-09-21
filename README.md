@@ -164,6 +164,29 @@ Lambda execution evidence
 DynamoDB storage evidence
 SNS email alert evidence
 Conclusion
+
+## Project Screenshots
+
+### DynamoDB Table
+
+![DynamoDB Table](screenshots/02_dynamodb_table_status.png)
+
+### Lambda Configuration
+
+![Lambda Configuration](screenshots/03_lambda_configuration.png)
+
+### Lambda Successful Execution
+
+![Lambda Success](screenshots/04_lambda_success.png)
+
+### DynamoDB Sensor Records
+
+![DynamoDB Records](screenshots/05_dynamodb_sensor_records.png)
+
+### SNS Email Alert
+
+![SNS Email Alert](screenshots/06_sns_email_alert.png)
+
 **Author**
 
 Thrupthi J
